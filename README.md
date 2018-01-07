@@ -1,0 +1,2 @@
+# sathiya
+practice repository
